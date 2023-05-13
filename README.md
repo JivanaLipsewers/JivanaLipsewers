@@ -16,4 +16,5 @@ Jan 2022 - Apr 2023 – **UX/UI Designer**
 <br>Research | Analyses | Guidelines | CD-Checks | Wireframes | Design Systems | Templates | Online-Banners | Module development | Prototypes | Accessibility | CMS
 
 Aug 2019 - Dec 2022 – **Media Designer Digital & Print**
-<br>Experience in: Corporate Design | Packaging Design | Product Design | Artwork | Interactive Design | Focus since 2021: UX/UI Design
+<br>Experience in: Corporate Design | Packaging Design | Product Design | Artwork | Interactive Design 
+<br>Focus since 2021: UX/UI Design
