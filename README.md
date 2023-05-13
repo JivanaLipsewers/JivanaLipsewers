@@ -1,18 +1,19 @@
-# Moin zusammen! :wave:
+<h1>Hi 👋, I'm Jivana!</h1>
+<h3>A UX/UI Designer and web developer student from Germany.</h3>
 
-ich bin Jivana, gerne auch Ive genannt und 25 Jahre alt. Während meiner Ausbildung zur Mediengestalterin erhielt ich Einblicke in verschiedenste Bereiche wie Corporate Design, Reinzeichnung, Packaging- und Produktdesign. Nach meinem Gasteinsatz im Digital-Team war mir jedoch klar, dass ich mich in Zukunft auf den Bereich UX/UI fokussieren und spezialisieren wollte. So wurde ich noch während meiner Ausbildung Anfang 2021 fester Bestandteil im Digital-Team. 
+<br><h3>About me</h3>
+3 facts that create a good working environment for me
+<br><br>:handshake: Great colleagues around me.
+<br>:coffee: Coffeeeee. 
+<br>:musical_note: Music! [Go to my Spotify here](https://open.spotify.com/user/jivanali) 
 
-Seit Mai 2023 absolviere ich nun ein Bootcamp im Bereich Web Development, um Kenntnisse in der Entwicklung zu gewinnen, um in Zukunft auch nach der Designentwicklung die Umsetzung durchführen bzw. betreuen zu können.
+<br><h3>Career</h3>
 
-[hello](https://images.unsplash.com/photo-1520453803296-c39eabe2dab4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80)
+May 2023 - now – Web Development Student
+<br>HTML | CSS | JavaScript | React | Next | MongoDB | Scrum | Pair Programming | Node.js | Figma | NoSQL | Git | REST
 
-## Meine Erfahrung :woman_technologist:
+**Jan 2022 - Apr 2023** – UX/UI Designer
+<br>Research | Analyses | Guidelines | CD-Checks | Wireframes | Design Systems | Templates | Online-Banners | Module development | Prototypes | Accessibility | CMS
 
-- **Mai 2023 - Heute**
-Studentin Web Development
-
-- **Januar 2022 - April 2023**
-Junior UX/UI Designer
-
-- **August 2019 - Januar 2022**
-Ausbildung Mediengestaltung Digital & Print
+**Aug 2019 - Dec 2022** – Media Designer Digital & Print
+<br>Experience in: Corporate Design | Packaging Design | Product Design | Artwork | Interactive Design | Focus since 2021: UX/UI Design
